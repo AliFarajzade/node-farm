@@ -1,0 +1,15 @@
+{
+    "name": "node-farm",
+    "version": "1.0.0",
+    "description": "My first Nodejs project.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Ali Farajzade",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
